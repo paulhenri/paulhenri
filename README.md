@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @paulhenri
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Rust and studying how SQL Server works in it heart
+- 🌱 I’m currently learning Rust and trying to get my hands on distributed systems for databases.
 - 💞️ I’m looking to collaborate on --> Anything i can help with is good !
